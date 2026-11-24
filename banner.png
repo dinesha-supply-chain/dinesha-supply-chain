@@ -1,4 +1,6 @@
-# Hi, I'm Dinesha! 👋
+<p align="center">
+  <img src="banner.png" width="100%" alt="Dinesha Supply Chain Analytics">
+</p>
 
 ### Supply Chain Analyst | Data Analytics | Logistics & Operations
 
